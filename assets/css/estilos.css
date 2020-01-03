@@ -1,0 +1,100 @@
+.activo{
+    background: #dcedc8;
+}
+.color-estructura{
+
+}
+.cabecera-card{
+    background: #d4d7dd;
+}
+.cuerpo-card{
+    background: #eae9e9;
+}
+.cabecera {
+    background-color: white;
+    width:100%;
+    display:block;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(240,240,240);
+    margin-bottom:10px;
+    padding-top:5px;
+    background-color: #dcedc8;
+}
+.logo {
+    display:block;
+    width:70px;
+    margin:auto;
+}
+.description {
+    display: block;
+    text-align:center;
+    line-height: 170%;
+    color:rgb(158,158,158);
+}
+.pimagen{
+    max-width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.color-pregunta{
+    background-color: #bbdefb;
+}
+.th-tabla{
+    text-align: center; 
+    background-color: #9fa8da;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+.btn-separacion{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.estilo-check{
+    width: 20px;
+    height: 20px;
+}
+.descarga{
+    text-align: right;
+    font-size: 16px;
+    font-family: sans-serif;
+    padding-bottom: 20px;
+    color: #ffccbc
+}
+.descarga a{
+    color: #8d6e63;
+    text-decoration: none;
+}
+.descarga a:hover{
+    color: #ff7043;
+    text-decoration: none;
+}
+.descarga a:active{
+    color: red;
+    text-decoration: none;
+}
+.renglon{
+    background-color: #f1f8e9;
+    margin-top: 2px;
+    padding: 5px 5px 5px 5px;
+    font-size: 14px;
+}
+.renglon_centrado{
+    text-align: center;
+}
+.encabezado_examen{
+    background-color: #c5e1a5;
+}
+.seleccionar_test{
+    text-decoration: none;
+}
+    
+.seleccionar_test:hover{
+    color: #ff7043;
+    
+    text-decoration: none;
+}
+.x{
+    font-size: 16px
+}
