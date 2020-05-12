@@ -1,6 +1,6 @@
 <?php
-$host="179.49.13.66";
-$port="5432";
-$dbname="conduespoch";
-$user="postgres";
-$password="12345";
+$host="xxx.xxx.xxx.xxx";
+$port="xxxx";
+$dbname="xxxxxxxxxx";
+$user="xxxxxxx";
+$password="xxxxxxxxxxxxx";
